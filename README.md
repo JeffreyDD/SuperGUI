@@ -8,6 +8,10 @@ Included 3rd Party Components
 - Bootstrap (for layout & responsiveness)
 - jQuery
 - jQuery Flexigrid Plugin
+- Google Visualization API
+- Google Maps API
+- Google Webfonts API
+- FlexPDF
 
 Provided Components
 -------------------
@@ -19,6 +23,9 @@ Provided Components
  - Dynamic Forms
  - Typeahead
  - Checking
+- Informative Reports
+ - Printable / Sendable
+ - Use charts to display data
 - Modern Layouts
  - Responsive
  - Grids
@@ -34,4 +41,4 @@ Why use SuperGUI?
  - Stable
 
 Of course, you can use the SuperGUI components individually, but you'd have to think about matching versions, gathering updates from a lot of sources, etc, etc.
-We like to think of SuperGUI as a sort of supercharged CDN & a layout generator in one.
+We like to think of SuperGUI as a sort of supercharged CDN & a layout generator in one. Using SuperGUI, you can focus on making your application great, instead of hand-crafting a great GUI.
